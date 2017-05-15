@@ -17,7 +17,7 @@
 <script src="<c:url value="js/PagingContent.js" />"
 	type="text/javascript"></script>
 <link rel="shortcut icon" type="image/png"
-	href="<c:url value="css/logo.png"/>" />
+	href="<c:url value="Resources/Imagephoto/logo.png"/>" />
 <link href="<c:url value="components/lightbox/css/lightbox.css"/>"
 	rel="stylesheet" type="text/css" />
 <script src="<c:url value="Components/lightbox/js/lightbox.min.js"/>"
@@ -299,7 +299,7 @@
 												<div class="P_logo">
 													<div class="anh_logo">
 														<img alt=""
-															src="<c:url value = "css/Banner%20Hoi%20nghi%20quoc%20te%20sua.jpg"/>"
+															src="<c:url value = "Resources/Images/SubDomain/icsse2017/Banner%20Hoi%20nghi%20quoc%20te%20sua.jpg"/>"
 															style="width: 800px; height: 188px;" /><br />
 													</div>
 													<div class="name_ute"></div>
@@ -346,11 +346,11 @@
 													<div id="slider" class="nivoSlider">
 
 														<a href="#" target="_blank"> <img
-															src="<c:url value = "css/HNQT3.jpg"/>"
+															src="<c:url value = "Resources/imagesPortlet/e28a24d5-befe-4213-a3d5-2e1ebcb2a71e/HNQT3.jpg"/>"
 															title="" /></a> <a href="#" target="_blank"> <img
-															src="<c:url value = "css/HNQT2.jpg"/>"
+															src="<c:url value = "Resources/imagesPortlet/e28a24d5-befe-4213-a3d5-2e1ebcb2a71e/HNQT2.jpg"/>"
 															title="" /></a> <a href="#" target="_blank"> <img
-															src="<c:url value = "css/HNQT1.jpg"/>"
+															src="<c:url value = "Resources/imagesPortlet/e28a24d5-befe-4213-a3d5-2e1ebcb2a71e/HNQT1.jpg"/>"
 															title="" /></a>
 
 													</div>
@@ -485,7 +485,7 @@
 					<tr>
 						<td colspan="2"><div id="pnBottom">
 								<div id="pnBottomDisplay"
-									style="clear: both; background: url(css/bgfooter_phong.png) repeat-x; width: 1000px; height: 110px;">
+									style="clear: both; background: url(Resources/ImagesPortal/PhongBan/bgfooter_phong.png) repeat-x; width: 1000px; height: 110px;">
 									<div id='ctl06_portlet_5c231c9e-b9b3-474f-bb01-834b95465666'
 										style="float: right">
 										<div>
