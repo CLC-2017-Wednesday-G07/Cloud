@@ -42,6 +42,7 @@ public class FileUploadProgressListener implements MediaHttpUploaderProgressList
       case MEDIA_COMPLETE:
         View.header2("Upload is Complete!");
         break;
+        //////
     }
   }
 }
